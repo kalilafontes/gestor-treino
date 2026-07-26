@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Prisma">
+  <rect width="64" height="64" rx="17" fill="#CAFF3D"/>
+  <path
+    fill="#6D28D9"
+    d="M18 50V14h15.3c9.3 0 15 4.9 15 12.9 0 8.2-5.8 13.2-15.4 13.2h-5.6V50H18Zm9.3-17.5h5.4c4.1 0 6.3-1.9 6.3-5.5 0-3.5-2.2-5.3-6.3-5.3h-5.4v10.8Z"
+  />
+</svg>
